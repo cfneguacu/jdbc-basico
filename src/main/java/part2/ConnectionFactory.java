@@ -1,4 +1,4 @@
-package part3;
+package part2;
 
 import java.io.IOException;
 import java.io.InputStream;
